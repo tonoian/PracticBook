@@ -12,7 +12,7 @@ public interface MyIF {
     }
 
     // Это объявление статического метода в интерфейсе
-    static int getDefaultNumber(){
+    static int getDefaultNumber() {
         return 0;
     }
 }
